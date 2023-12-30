@@ -3,7 +3,7 @@
 /* Banner principal */
 
 .background-principal {
-  background-image: url(/assets/banner-principal.png);
+  background-image: url(/assets/banner-principal.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -30,7 +30,7 @@ h2 {
 
 /* contador */
 .background-count-down {
-  background-image: url(/assets/ELEMENTO-DECORATIVO.png);
+  background-image: url(/assets/ELEMENTO-DECORATIVO.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
