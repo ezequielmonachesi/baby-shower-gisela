@@ -43,6 +43,16 @@ h2 {
   color: #fbb0e6; /* Código de color para el rosa */
 }
 /* confirmar asistencia */
-.text-rose{
-    color: #fbb0e6;
+.text-rose {
+  color: #fbb0e6;
+}
+/* Audio */
+#boton-reproduccion {
+  background-color: #ff69b4; /* Color rosa */
+  color: #fff; /* Color del texto */
+  padding: 10px 20px; /* Espaciado interno */
+  border: none; /* Quitar el borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambiar el cursor al pasar por encima */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra oscura borrosa */
 }
